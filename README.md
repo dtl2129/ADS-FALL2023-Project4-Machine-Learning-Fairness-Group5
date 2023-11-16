@@ -5,7 +5,7 @@
 Term: Fall 2023
 
 + Team 5
-+ Projec title: 
++ Project title: 
 + Team members
 	+ Noreen Mayat
 	+ Hannah Gao
@@ -13,7 +13,7 @@ Term: Fall 2023
 	+ Bessie Wang
 	+ Yufei Wang
  	+ Yucheng Lu
-+ Project summary: 
++ Project summary: We were tasked with tasks A3 (Maximizing fairness under accuracy constraints (gamma and Fine-gamma)) and A7 (Information Theoretic Measures for Fairness-aware Feature selection (FFS)) and to compare gamma, Fine-gamma and FFS. 
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
