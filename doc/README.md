@@ -1,3 +1,5 @@
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+Containing the final documents and presentation.
+A3- A3 file
+A7- A7 final
