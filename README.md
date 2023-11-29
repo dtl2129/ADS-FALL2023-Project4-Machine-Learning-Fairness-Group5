@@ -15,8 +15,13 @@ Term: Fall 2023
  	+ Yucheng Lu
 + Project summary: We were tasked with tasks A3 (Maximizing fairness under accuracy constraints (gamma and Fine-gamma)) and A7 (Information Theoretic Measures for Fairness-aware Feature selection (FFS)) and to compare gamma, Fine-gamma and FFS. 
 	
-**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
-
+**Contribution statement**: 
+	+ Yucheng Lu: Implemented algorithm A7 and meticulously compared the accuracy of various feature combinations to identify the most effective model. 
+ 	+ Noreen Mayat
+	+ Hannah Gao
+	+ Daniel Thomas Luce
+	+ Bessie Wang
+	+ Yufei Wang
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
