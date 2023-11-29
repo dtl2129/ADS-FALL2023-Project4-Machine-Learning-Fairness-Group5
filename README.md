@@ -5,7 +5,7 @@
 Term: Fall 2023
 
 + Team 5
-+ Project title: 
++ Project title: **Maximizing fairness under accuracy constraints (gamma and Fine-gamma) Information Theoretic Measures for Fairness-aware Feature Selection (FFS)**
 + Team members
 	+ Noreen Mayat
 	+ Hannah Gao
