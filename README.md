@@ -13,7 +13,6 @@ Term: Fall 2023
 	+ Bessie Wang
 	+ Yufei Wang
  	+ Yucheng Lu
-  + 
 ### Project Summary
 In this project, we focused on tasks A3 (Maximizing fairness under accuracy constraints (gamma and Fine-gamma)) and A7 (Information Theoretic Measures for Fairness-aware Feature Selection (FFS)). Our primary objective was to conduct a comparative analysis of gamma, Fine-gamma, and FFS, assessing their effectiveness and efficiency in various scenarios.
 
