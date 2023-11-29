@@ -19,7 +19,7 @@ In this project, we focused on tasks A3 (Maximizing fairness under accuracy cons
 
 ### Contribution Statements
 - **Yucheng Lu:** Implemented algorithm A7 and meticulously compared the accuracy of various feature combinations to identify the most effective model. This process involved extensive data analysis and rigorous testing of multiple models under different conditions, leveraging advanced statistical methods for objective performance evaluation.
-- **Noreen Mayat:** Helped organize Github, reviewed and revised code for A3 and A7 to fix bugs, enhance performance and make the code more organized, with background information, as well as more concise and straightforward. Worked on editing and combining A3 and A7 into one joint file. Added more detail to READMEs for each folder.  
+- **Noreen Mayat:** Helped organize Github, reviewed and revised code for A3 and A7 to fix bugs, enhance performance and make the code more organized, with background information, as well as more concise and straightforward. Worked on editing and combining A3 and A7 into one joint file. Added more detail to READMEs for each folder. Added figure to figures folder.  
 - **Hannah Gao:** [Contribution Description]
 - **Daniel Thomas Luce:** [Contribution Description]
 - **Bessie Wang:** [Contribution Description]
