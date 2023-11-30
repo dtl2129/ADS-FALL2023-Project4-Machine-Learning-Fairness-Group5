@@ -23,7 +23,7 @@ In this project, we focused on tasks A3 (Maximizing fairness under accuracy cons
 - **Hannah Gao:** Worked on implementing and revising A7, specifically with vD, fairness-utility score for each feature, calibration, and Shapley value functions. Added detailed formulas and explanations to make it more comprehensive. Reached out to all group members and initiated a group chat with every one's availability. Also added more details to READMEs. 
 - **Daniel Thomas Luce:** Started up the Github to kickstart group progress. Worked on modifying and revising A7; created a visualization graphic for this work to better understand our findings. 
 - **Bessie Wang:** Worked on implementing and revising A7. Added detailed explanations of formulas and calculations conducted. 
-- **Yufei Wang:** Implemented almost all of A3, worked on presentation, and presented on behalf of the group. 
+- **Yufei Wang:** Implemented almost all of A3, including training an unconstrained classifier on the biased data and optimizing fairness subject to accuracy constraints. Suggested ideas about comparing A3 to A7 and adjusted the code to make them more comparable. Worked on presentation, and presented on behalf of the group, 
   
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
