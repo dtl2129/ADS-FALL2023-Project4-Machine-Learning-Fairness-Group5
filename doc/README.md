@@ -11,6 +11,6 @@ Contribution:
 Yufei: Wrote skeleton for A3; presenter.
 Daniel: Refined and created visualizations for A3.
 Yucheng: Wrote skeleton for A7.
-Bessie: Revised and refined first half of A7.
+Bessie: Started ground work and skeleton for first part of A7, Revised and refined first half of A7 based on Yucheng's skeleton, distributed tasks and pushed project progress, fixed final bugs.
 Hannah: Revised and refined second half of A7.
 Noreen: Merged A3 and A7, checked and pushed final drafts.
